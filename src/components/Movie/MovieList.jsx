@@ -1,30 +1,85 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import MovieCard from "./MovieCard";
-import { Col, Container, Row } from "react-bootstrap";
-import { Swiper, SwiperSlide } from "swiper/react";
-import { Pagination, Navigation } from "swiper";
-
-import "swiper/css";
-import "swiper/css/navigation";
+import { Container } from "react-bootstrap";
+import Carousel from "react-bootstrap/Carousel";
 
 function MovieList() {
+  const [movies, setMovies] = useState([]);
+
+  useEffect(() => {
+    fetch("http://localhost:3004/movies")
+      .then((res) => res.json())
+      .then((response) => setMovies(response));
+  }, []);
+
+  const styles = {
+    sectionStyle: {
+      marginTop: "-50px",
+      position: "relative",
+      zIndex: 5,
+    },
+  };
+
   return (
     <>
-      <Swiper
-        slidesPerView={6}
-        spaceBetween={5}
-        slidesPerGroup={6}
-        loopFillGroupWithBlank={true}
-        navigation={true}
-        modules={[Navigation]}
-        className="mySwiper"
-      >
-        {[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10].map((x, i) => (
-          <SwiperSlide key={i}>
-            <MovieCard />
-          </SwiperSlide>
-        ))}
-      </Swiper>
+      <section style={styles.sectionStyle}>
+        <Container className="mb-3" fluid>
+          <h5 className="text-white ">Netlix'te Popüler</h5>
+          <Carousel controls={true} interval={599999}>
+            {movies.map((page, index) => (
+              <Carousel.Item key={index}>
+                <div className="d-flex gap-1 carousel-page-wrapper">
+                  {page.map((movie, i) => (
+                    <MovieCard key={movie.id} data={movie} />
+                  ))}
+                </div>
+              </Carousel.Item>
+            ))}
+          </Carousel>
+        </Container>
+        <Container className="mb-3" fluid>
+          <h5 className="text-white">Netlix'te Popüler</h5>
+          <Carousel interval={599999}>
+            {movies.map((page, index) => (
+              <Carousel.Item key={index}>
+                <div className="d-flex gap-1 carousel-page-wrapper">
+                  {page.map((movie, i) => (
+                    <MovieCard key={movie.id} data={movie} />
+                  ))}
+                </div>
+              </Carousel.Item>
+            ))}
+          </Carousel>
+        </Container>
+        <Container className="mb-3" fluid>
+          <h5 className="text-white">Netlix'te Popüler</h5>
+          <Carousel interval={599999}>
+            {movies.map((page, index) => (
+              <Carousel.Item key={index}>
+                <div className="d-flex gap-1 carousel-page-wrapper">
+                  {page.map((movie, i) => (
+                    <MovieCard key={movie.id} data={movie} />
+                  ))}
+                </div>
+              </Carousel.Item>
+            ))}
+          </Carousel>
+        </Container>
+        <Container className="mb-3" fluid>
+          <h5 className="text-white">Netlix'te Popüler</h5>
+          <Carousel interval={599999}>
+            {movies.map((page, index) => (
+              <Carousel.Item key={index}>
+                <div className="d-flex gap-1 carousel-page-wrapper">
+                  {page.map((movie, i) => (
+                    <MovieCard key={movie.id} data={movie} />
+                  ))}
+                </div>
+              </Carousel.Item>
+            ))}
+          </Carousel>
+        </Container>
+      </section>
     </>
   );
 }

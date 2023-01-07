@@ -1,0 +1,116 @@
+{
+  "movies": [
+    [
+      {
+        "id": 0,
+        "name": "Wednesday",
+        "description": "Zeki, alayc\u0131 ve az\u0131c\u0131k i\u00e7i ge\u00e7mi\u015f bir k\u0131z olan Wednesday Addams, Nevermore Akademisinde yeni dostlar ve d\u00fc\u015fmanlar edinirken art arda ger\u00e7ekle\u015fen cinayetleri ara\u015ft\u0131r\u0131r.",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABaTvvAv5P189FNNf2iBf-qIcYEKM7stGvJBlBUA8V9gSPUA8oqFlJDQQTtrTOqPPsFFWVaWHWO9IqNjvaP_f30jN7SICseiQz2FrjqrHJeMrO5iNA1zfpWH94Nk9pXA4emvLlqq4nV37bOyvgwBx9tTunzBGlBM8SP3114SKcLmss7UTSt3pM9HYYsgPsDk.jpg?r=13d",
+        "season": "8 B\u00f6l\u00fcm",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Jenna Ortega", "Gwendoline Christie", "Riki Lindhome"]
+      },
+      {
+        "id": 1,
+        "name": "Esrarengiz Canavar",
+        "description": "Norve\u00e7 da\u011flar\u0131ndaki bir patlaman\u0131n kadim bir trol\u00fc uyand\u0131rmas\u0131n\u0131n ard\u0131ndan, cesur bir paleontolog bu trol\u00fcn \u00f6l\u00fcm sa\u00e7arak ortal\u0131\u011f\u0131 kas\u0131p kavurmas\u0131n\u0131 \u00f6nlemekle g\u00f6revlendirilir.",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABfC5r2rWGST1ySMvClG_byWwocF607ZC4k2zL1Z3XFUPIsZX-Dq2LnWThW2JgbQFzVHJh5q2VVfrhQEDbqMWjVjkvVOMubflRAm8RE1hdYyUOATxOXmgP3vI8aOmCEas-Fqr.jpg?r=380",
+        "season": "",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Ine Marie Wilmann", "Kim Falck", "Mads Sjogard Pettersen"]
+      },
+      {
+        "id": 2,
+        "name": "1899",
+        "description": "1899'da New York'a do\u011fru yola \u00e7\u0131kan bir g\u00f6\u00e7men gemisi gizemli olaylar nedeniyle rotas\u0131n\u0131 de\u011fi\u015ftirince, \u015fa\u015fk\u0131na d\u00f6nen yolcular ak\u0131lalmaz bir bilmeceyle kar\u015f\u0131 kar\u015f\u0131ya kal\u0131r.",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABWho2NU3SO3c0DCetMZgdR9uS6m5Ivdkh5q88l8sND9V5OfwP56Oj26-QPCJM59ey6lzgKYQ5wVJmJrm_wpT13zUWwuVsQO7bALnKEWEflQk-KO7rkE0xT1LmB7cKtbADsg1sZ60CiSmwRnGzmPG0DZwTV-x295luzohshYIlRd9c3tnxwG8-lhhuh2RKXY.jpg?r=0b0",
+        "season": "8 B\u00f6l\u00fcm",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Emily Beecham", "Aneurin Barnand", "Andreas Pietschmann"]
+      },
+      {
+        "id": 3,
+        "name": "B\u0131\u00e7aklar \u00c7ekildi: Gizemli Bir Ser\u00fcven",
+        "description": "D\u00fcnyaca \u00fcnl\u00fc dedektif Benoit Blanc, bir milyarder ve onun s\u0131ra d\u0131\u015f\u0131 tiplerden olu\u015fan arkada\u015f grubunun d\u00e2hil oldu\u011fu bir gizemi ayd\u0131nl\u0131\u011fa kavu\u015fturmak \u00fczere Yunanistan'a gider.",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABaNZX4toJJDZWdtrDyd8TliN_Wwvd5dodjMM-76oRF9wIVpComMHUNqHkOON9bjWahLSy_OPn5bAUGJp1fcKyP9ftK2OuLyEsaMX27nN88KKNIQIluaeruvOCAHGNyXI54jeVa53BuasXsnpan1LS-fHmsPXrZFBVQ_xThyKMsCcvoMJnE33wc0a0oBwlq8.jpg?r=41b",
+        "season": "4 B\u00f6l\u00fcm",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Daniel Craig", "Edward Norton", "Janelle Monae"]
+      },
+      {
+        "id": 4,
+        "name": "Hayaller Diyar\u0131",
+        "description": "Cesur ve gen\u00e7 bir yetim, en b\u00fcy\u00fck dile\u011finin ger\u00e7ekle\u015fmesini sa\u011flayacak k\u0131ymetli bir inciyi bulmak i\u00e7in s\u0131ra d\u0131\u015f\u0131 bir haydutla birlikte hayaller diyar\u0131nda bir yolculu\u011fa \u00e7\u0131kar.",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABf8eiQHDIIpeLVxSfFHcEM7nEOVJpVkjdRsce3E1pAhNqgMSnGhmJr-JkXTKxbPFDWtuk43P4NXo94x99VEG3e1osCLrRJXylHv-XqAqboRWfYdCMBIr8oT38EqpniKViVTp.jpg?r=46f",
+        "season": "12 B\u00f6l\u00fcm",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Jason Momoa", "Marlow Barkley", "Chris O'Dowd"]
+      },
+      {
+        "id": 5,
+        "name": "Emily in Paris",
+        "description": "\u015eikagolu pazarlama y\u00f6neticisi Emily Cooper, Paris'te hayallerindeki pozisyonu kapmas\u0131n\u0131n ard\u0131ndan i\u015f, arkada\u015fl\u0131k ve a\u015fkla u\u011fra\u015f\u0131rken macera dolu yeni ya\u015fam\u0131n\u0131 kucaklar.",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZSbmuuI9ugwT4c3ElSLqB5Mw4SuPXkJZRJ12hSQreNESaUxrSgVzpY2kbAengWWrR5VJZLNTsgFzpkCPKnunwTSwmu7zIGpdWe7iB4NZ2s7ExVMrw6q1vM4uoLz1zJjVW82D93sqlk1FvW0KLqXaLRlCL-5esvX-pAfsUstRdNfEgaCdWqHdMTo4CInLddy1AJ_0mdm4CJQ-aYOPifr_O4WfQy6QH-9GY6UGDTvgfs8KKUE1raHnTxsRNESFJ_Yn7le_Ob5MzNzfKjDHikA-97b5O8rURZpX7zFPkrgmwy9CiScaxm2G9LW1UKomq7TOfyMCjJ3BUIYlaYf--Qe4ax6BKmpk9wgSqshM0Klj_l3oA.jpg?r=b20",
+        "season": "6 B\u00f6l\u00fcm",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Lily Collins", "Ashley Park", "Philippine Leroy"]
+      }
+    ],
+    [
+      {
+        "id": 6,
+        "name": "Y\u00fcz\u00fcc\u00fcler",
+        "description": "\u0130ki k\u0131z karde\u015f, hem y\u00fcreklerini hem de y\u00fczme becerilerini kahramanca ortaya koyarak sava\u015f\u0131n mahvetti\u011fi Suriye'den 2016 Rio Olimpiyatlar\u0131'na uzanan bir yolculu\u011fa \u00e7\u0131kar.",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABXvA_z56Es1L6Eo4C22Z08qa9bTb2r_SVJZ0_qZjW5uymxLVxgdGUzYU0b0gicylKyx5YQ03sgRq6Tk4CuvD4lBUwEEPpVpXFF7VO-GMYF7uyKgyjLZuXEZJzyGir1tbe4Yq.jpg?r=275",
+        "season": "6 B\u00f6l\u00fcm",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Manal Issa", "Nathalie Issa", "Matthias"]
+      },
+      {
+        "id": 7,
+        "name": "Guillermo del Toro sunar: Pinokyo",
+        "description": "Oscar \u00f6d\u00fcll\u00fc y\u00f6netmen Guillermo del Toro, stop motion tekni\u011fiyle hayata ge\u00e7irilen bu m\u00fczikalde canlanan tahta bir kukla hakk\u0131ndaki klasik masal\u0131 ba\u015ftan yarat\u0131yor.",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABYnQBQHm2cNQKKih2sYjhjGOMti54rBWE77-XLzT4nKnbGedbcERPwSIxSipXzt49pkQOO7fEjCVI8MWLRxL0eD7tGmb3rAqJIrc0oPY8tNiAZ_sWsaVAGWuqYy897FjVgpDQlQmpqdIWGoDHS9yauBw5cxw_LR-w6WITpNHTG-jfFEOir526ZW5DRrP4_w.jpg?r=51e",
+        "season": "6 B\u00f6l\u00fcm",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Ewan McGregor", "David Bradley", "Gregory Mann"]
+      },
+      {
+        "id": 8,
+        "name": "The Recruit",
+        "description": "CIA'de i\u015fe ba\u015flayan \u00e7aylak bir avukat, eski bir muhbirin te\u015fkilat\u0131n s\u0131rlar\u0131n\u0131 if\u015fa etme tehdidi \u00fczerine kendisini uluslararas\u0131 casuslu\u011fun tehlikeli d\u00fcnyas\u0131nda bulur.",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQ-S1d5yvflavsmCgBMP6fDb6eRi9Qdf_FT5iJqtlg2aE-vLsfiqT45SQUkO2z__RwjhCg7KbOg_7FI_AYd5kCjpAkH70110DcujPw3QGyJg8SosVWFqBuOYtxhQgngSym3g-UQSt3mVUxDTulRuCSf5U4dHRYlzjJz1YcJiKs55xBbYKJl8Wjdf25MLIhI.jpg?r=788",
+        "season": "11 B\u00f6l\u00fcm",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Noah Centineo", "Laura Haddock", "Aarti Mann"]
+      },
+      {
+        "id": 9,
+        "name": "Elite",
+        "description": "\u0130\u015f\u00e7i s\u0131n\u0131f\u0131ndan gelen \u00fc\u00e7 gen\u00e7 \u0130spanya'daki se\u00e7kin bir \u00f6zel okula kaydolunca, onlarla zengin \u00f6\u011frenciler aras\u0131nda ba\u015flayan \u00e7at\u0131\u015fma bir cinayete yol a\u00e7ar.",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABb0ZuXWRIfdeoZE8y-HEjB1pfTzVE1BpemMVYjI3Plawc2fQoecZMO_dVG81XfqSRJcokrDcuW1kjb-aTQ5CO8oJumIiqLflzuzgHBbs1G5IDNNZL7wOgfkPbReiDyHgVZwS.jpg?r=5c9",
+        "season": "6 B\u00f6l\u00fcm",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Itzan Escamilla", "Miguel Bernardeau", "Danna Paola"]
+      },
+      {
+        "id": 10,
+        "name": "Alice in Borderland",
+        "description": "Ama\u00e7s\u0131z bir bilgisayar oyuncusu ve iki arkada\u015f\u0131 kendilerini paralel evrendeki Tokyo'da bulur. Burada hayatta kalmak i\u00e7in bir dizi ac\u0131mas\u0131z oyuna kat\u0131lmalar\u0131 gerekir",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABT1ZdQSHPIejodAg7NLyaXAr7nsktt-o1f7uxsb4uNKrjHpL06_HFJCHHdxodJ842rw1N919AwqY9u-81reN8jw3xeowmOW7cM6YjO3gF9xopwHboqrmxa--gj7kk-advbqO9oMaB_OOpnw0X9D_EWv1zJYgrtrY4lwgsSIt3hzj6qHHGZJc24941Tp0UWABSst8a3x_vxxmwPd0Ya2bHqYjut-Sbmj1_Mzsh4ybR14HOD_8NVmiqY_PcKT2qeJR5-dMUs80WOsiuC_VdudQfuHSofcqeLPYVmXWJHzXvhmBpM9K9eI3BKihU28U8hqqeaspXEyDI-S_38kv4nSM0EHBXQILQ_mI_HV-2ZI508CfGA.jpg?r=6a8",
+        "season": "16 B\u00f6l\u00fcm",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Kento Yamazaki", "Tao Tsuchiya", "Nijiro Murakami"]
+      },
+      {
+        "id": 11,
+        "name": "The Witcher: Blood Origin",
+        "description": "\"The Witcher\"da ya\u015fananlardan bin y\u0131l\u0131 a\u015fk\u0131n bir s\u00fcre \u00f6nce, bir elf d\u00fcnyas\u0131nda ya\u015fayan yedi d\u0131\u015flanm\u0131\u015f karakter, g\u00fc\u00e7l\u00fc bir imparatorlu\u011fa kar\u015f\u0131 g\u00fc\u00e7lerini birle\u015ftirir.",
+        "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZu3dHGuPBjjNMDYvqYzx5TWQSIUIa_NzzgLyHZXN4ijM4zLIf5LKaRHNbA8nb9E79u-s40kDomDjkNkP0rZ-yuULuKkwTQSvYyUDDl9icp4RKHJPmmCuo7PVqycUyveKKSNcCPef13HrWZgSmKgrdV076ORMAv2b1A7KZQpf5QJId8pT_gaTlRNzVE28UE.jpg?r=710",
+        "season": "12 B\u00f6l\u00fcm",
+        "types": ["Gizem", "Dram", "Fantastik"],
+        "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"]
+      }
+    ]
+  ]
+}

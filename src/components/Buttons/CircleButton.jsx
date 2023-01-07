@@ -3,9 +3,9 @@ import React from "react";
 function CircleButton({ children, backgroundColor, borderColor }) {
   const styles = {
     buttonStyle: {
-      width: 40,
-      height: 40,
-      borderRadius: 20,
+      width: 25,
+      height: 25,
+      borderRadius: 12.5,
       border: "none",
       display: "flex",
       alignItems: "center",

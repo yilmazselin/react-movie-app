@@ -1,0 +1,200 @@
+{
+  "movies": [
+    {
+      "name": "Wednesday",
+      "description": "Zeki, alaycı ve azıcık içi geçmiş bir kız olan Wednesday Addams, Nevermore Akademisinde yeni dostlar ve düşmanlar edinirken art arda gerçekleşen cinayetleri araştırır.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABaTvvAv5P189FNNf2iBf-qIcYEKM7stGvJBlBUA8V9gSPUA8oqFlJDQQTtrTOqPPsFFWVaWHWO9IqNjvaP_f30jN7SICseiQz2FrjqrHJeMrO5iNA1zfpWH94Nk9pXA4emvLlqq4nV37bOyvgwBx9tTunzBGlBM8SP3114SKcLmss7UTSt3pM9HYYsgPsDk.jpg?r=13d",
+      "season": "8 Bölüm",
+      "types": [
+        "Gizem Dizileri",
+        "Suç Temalı Diziler",
+        "Fantastik Diziler"
+      ],
+      "cast": [
+        "Jenna Ortega",
+        "Gwendoline Christie",
+        "Riki Lindhome"
+      ]
+    },
+    {
+      "name": "Esrarengiz Canavar",
+      "description": "Norveç dağlarındaki bir patlamanın kadim bir trolü uyandırmasının ardından, cesur bir paleontolog bu trolün ölüm saçarak ortalığı kasıp kavurmasını önlemekle görevlendirilir.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABfC5r2rWGST1ySMvClG_byWwocF607ZC4k2zL1Z3XFUPIsZX-Dq2LnWThW2JgbQFzVHJh5q2VVfrhQEDbqMWjVjkvVOMubflRAm8RE1hdYyUOATxOXmgP3vI8aOmCEas-Fqr.jpg?r=380",
+      "season": "",
+      "types": [
+        "Sürükleyici",
+        "Heyecanlı"
+      ],
+      "cast": [
+        "Ine Marie Wilmann",
+        "Kim Falck",
+        "Mads Sjogard Pettersen"
+      ]
+    },
+    {
+      "name": "1899",
+      "description": "1899'da New York'a doğru yola çıkan bir göçmen gemisi gizemli olaylar nedeniyle rotasını değiştirince, şaşkına dönen yolcular akılalmaz bir bilmeceyle karşı karşıya kalır.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABWho2NU3SO3c0DCetMZgdR9uS6m5Ivdkh5q88l8sND9V5OfwP56Oj26-QPCJM59ey6lzgKYQ5wVJmJrm_wpT13zUWwuVsQO7bALnKEWEflQk-KO7rkE0xT1LmB7cKtbADsg1sZ60CiSmwRnGzmPG0DZwTV-x295luzohshYIlRd9c3tnxwG8-lhhuh2RKXY.jpg?r=0b0",
+      "season": "8 Bölüm",
+      "types": [
+        "Akılalmaz",
+        "Tehditkar"
+      ],
+      "cast": [
+        "Emily Beecham",
+        "Aneurin Barnand",
+        "Andreas Pietschmann"
+      ]
+    },
+    {
+      "name": "Bıçaklar Çekildi: Gizemli Bir Serüven",
+      "description": "Dünyaca ünlü dedektif Benoit Blanc, bir milyarder ve onun sıra dışı tiplerden oluşan arkadaş grubunun dâhil olduğu bir gizemi aydınlığa kavuşturmak üzere Yunanistan'a gider.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABaNZX4toJJDZWdtrDyd8TliN_Wwvd5dodjMM-76oRF9wIVpComMHUNqHkOON9bjWahLSy_OPn5bAUGJp1fcKyP9ftK2OuLyEsaMX27nN88KKNIQIluaeruvOCAHGNyXI54jeVa53BuasXsnpan1LS-fHmsPXrZFBVQ_xThyKMsCcvoMJnE33wc0a0oBwlq8.jpg?r=41b",
+      "season": "4 Bölüm",
+      "types": [
+        "Ezber Bozan",
+        "Muzip",
+        "Sürükleyici"
+      ],
+      "cast": [
+        "Daniel Craig",
+        "Edward Norton",
+        "Janelle Monae"
+      ]
+    },
+    {
+      "name": "Hayaller Diyarı",
+      "description": "Cesur ve genç bir yetim, en büyük dileğinin gerçekleşmesini sağlayacak kıymetli bir inciyi bulmak için sıra dışı bir haydutla birlikte hayaller diyarında bir yolculuğa çıkar.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABf8eiQHDIIpeLVxSfFHcEM7nEOVJpVkjdRsce3E1pAhNqgMSnGhmJr-JkXTKxbPFDWtuk43P4NXo94x99VEG3e1osCLrRJXylHv-XqAqboRWfYdCMBIr8oT38EqpniKViVTp.jpg?r=46f",
+      "season": "12 Bölüm",
+      "types": [
+        "Heyecanlı"
+      ],
+      "cast": [
+        "Jason Momoa",
+        "Marlow Barkley",
+        "Chris O'Dowd"
+      ]
+    },
+    {
+      "name": "Emily in Paris",
+      "description": "Şikagolu pazarlama yöneticisi Emily Cooper, Paris'te hayallerindeki pozisyonu kapmasının ardından iş, arkadaşlık ve aşkla uğraşırken macera dolu yeni yaşamını kucaklar.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZSbmuuI9ugwT4c3ElSLqB5Mw4SuPXkJZRJ12hSQreNESaUxrSgVzpY2kbAengWWrR5VJZLNTsgFzpkCPKnunwTSwmu7zIGpdWe7iB4NZ2s7ExVMrw6q1vM4uoLz1zJjVW82D93sqlk1FvW0KLqXaLRlCL-5esvX-pAfsUstRdNfEgaCdWqHdMTo4CInLddy1AJ_0mdm4CJQ-aYOPifr_O4WfQy6QH-9GY6UGDTvgfs8KKUE1raHnTxsRNESFJ_Yn7le_Ob5MzNzfKjDHikA-97b5O8rURZpX7zFPkrgmwy9CiScaxm2G9LW1UKomq7TOfyMCjJ3BUIYlaYf--Qe4ax6BKmpk9wgSqshM0Klj_l3oA.jpg?r=b20",
+      "season": "6 Bölüm",
+      "types": [
+        "Romantik Drama",
+        "Romantik Komedi",
+        "Drama"
+      ],
+      "cast": [
+        "Lily Collins",
+        "Ashley Park",
+        "Philippine Leroy"
+      ]
+    },
+    {
+      "name": "Yüzücüler",
+      "description": "İki kız kardeş, hem yüreklerini hem de yüzme becerilerini kahramanca ortaya koyarak savaşın mahvettiği Suriye'den 2016 Rio Olimpiyatları'na uzanan bir yolculuğa çıkar.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABXvA_z56Es1L6Eo4C22Z08qa9bTb2r_SVJZ0_qZjW5uymxLVxgdGUzYU0b0gicylKyx5YQ03sgRq6Tk4CuvD4lBUwEEPpVpXFF7VO-GMYF7uyKgyjLZuXEZJzyGir1tbe4Yq.jpg?r=275",
+      "season": "6 Bölüm",
+      "types": [
+        "Britanya Yapımı",
+        "Gerçek Hayattan Uyarlanan Filmler"
+      ],
+      "cast": [
+        "Manal Issa",
+        "Nathalie Issa",
+        "Matthias"
+      ]
+    },
+    {
+      "name": "Guillermo del Toro sunar: Pinokyo",
+      "description": "Oscar ödüllü yönetmen Guillermo del Toro, stop motion tekniğiyle hayata geçirilen bu müzikalde canlanan tahta bir kukla hakkındaki klasik masalı baştan yaratıyor.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABYnQBQHm2cNQKKih2sYjhjGOMti54rBWE77-XLzT4nKnbGedbcERPwSIxSipXzt49pkQOO7fEjCVI8MWLRxL0eD7tGmb3rAqJIrc0oPY8tNiAZ_sWsaVAGWuqYy897FjVgpDQlQmpqdIWGoDHS9yauBw5cxw_LR-w6WITpNHTG-jfFEOir526ZW5DRrP4_w.jpg?r=51e",
+      "season": "6 Bölüm",
+      "types": [
+        "Aile Filmleri",
+        "Aksiyon ve Macera"
+      ],
+      "cast": [
+        "Ewan McGregor",
+        "David Bradley",
+        "Gregory Mann"
+      ]
+    },
+    {
+      "name": "The Recruit",
+      "description": "CIA'de işe başlayan çaylak bir avukat, eski bir muhbirin teşkilatın sırlarını ifşa etme tehdidi üzerine kendisini uluslararası casusluğun tehlikeli dünyasında bulur.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQ-S1d5yvflavsmCgBMP6fDb6eRi9Qdf_FT5iJqtlg2aE-vLsfiqT45SQUkO2z__RwjhCg7KbOg_7FI_AYd5kCjpAkH70110DcujPw3QGyJg8SosVWFqBuOYtxhQgngSym3g-UQSt3mVUxDTulRuCSf5U4dHRYlzjJz1YcJiKs55xBbYKJl8Wjdf25MLIhI.jpg?r=788",
+      "season": "11 Bölüm",
+      "types": [
+        "Sürükleyici",
+        "Heyecanlı"
+      ],
+      "cast": [
+        "Noah Centineo",
+        "Laura Haddock",
+        "Aarti Mann"
+      ]
+    },
+    {
+      "name": "Elite",
+      "description": "İşçi sınıfından gelen üç genç İspanya'daki seçkin bir özel okula kaydolunca, onlarla zengin öğrenciler arasında başlayan çatışma bir cinayete yol açar.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABb0ZuXWRIfdeoZE8y-HEjB1pfTzVE1BpemMVYjI3Plawc2fQoecZMO_dVG81XfqSRJcokrDcuW1kjb-aTQ5CO8oJumIiqLflzuzgHBbs1G5IDNNZL7wOgfkPbReiDyHgVZwS.jpg?r=5c9",
+      "season": "6 Bölüm",
+      "types": [
+        "Gizem Dizileri",
+        "Suç Temalı Diziler"
+      ],
+      "cast": [
+        "Itzan Escamilla",
+        "Miguel Bernardeau",
+        "Danna Paola"
+      ]
+    },
+    {
+      "name": "Alice in Borderland",
+      "description": "Amaçsız bir bilgisayar oyuncusu ve iki arkadaşı kendilerini paralel evrendeki Tokyo'da bulur. Burada hayatta kalmak için bir dizi acımasız oyuna katılmaları gerekir",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABT1ZdQSHPIejodAg7NLyaXAr7nsktt-o1f7uxsb4uNKrjHpL06_HFJCHHdxodJ842rw1N919AwqY9u-81reN8jw3xeowmOW7cM6YjO3gF9xopwHboqrmxa--gj7kk-advbqO9oMaB_OOpnw0X9D_EWv1zJYgrtrY4lwgsSIt3hzj6qHHGZJc24941Tp0UWABSst8a3x_vxxmwPd0Ya2bHqYjut-Sbmj1_Mzsh4ybR14HOD_8NVmiqY_PcKT2qeJR5-dMUs80WOsiuC_VdudQfuHSofcqeLPYVmXWJHzXvhmBpM9K9eI3BKihU28U8hqqeaspXEyDI-S_38kv4nSM0EHBXQILQ_mI_HV-2ZI508CfGA.jpg?r=6a8",
+      "season": "16 Bölüm",
+      "types": [
+        "Sürükleyici"
+      ],
+      "cast": [
+        "Kento Yamazaki",
+        "Tao Tsuchiya",
+        "Nijiro Murakami"
+      ]
+    },
+    {
+      "name": "The Witcher: Blood Origin",
+      "description": "\"The Witcher\"da yaşananlardan bin yılı aşkın bir süre önce, bir elf dünyasında yaşayan yedi dışlanmış karakter, güçlü bir imparatorluğa karşı güçlerini birleştirir.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABZu3dHGuPBjjNMDYvqYzx5TWQSIUIa_NzzgLyHZXN4ijM4zLIf5LKaRHNbA8nb9E79u-s40kDomDjkNkP0rZ-yuULuKkwTQSvYyUDDl9icp4RKHJPmmCuo7PVqycUyveKKSNcCPef13HrWZgSmKgrdV076ORMAv2b1A7KZQpf5QJId8pT_gaTlRNzVE28UE.jpg?r=710",
+      "season": "12 Bölüm",
+      "types": [
+        "Fantastik Diziler",
+        "Drama Dizileri"
+      ],
+      "cast": [
+        "Henry Cavill",
+        "Anya Chalotra",
+        "Freya Allan"
+      ]
+    },
+    {
+      "name": "The Recruit",
+      "description": "CIA'de işe başlayan çaylak bir avukat, eski bir muhbirin teşkilatın sırlarını ifşa etme tehdidi üzerine kendisini uluslararası casusluğun tehlikeli dünyasında bulur.",
+      "image": "https://occ-0-4451-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQ-S1d5yvflavsmCgBMP6fDb6eRi9Qdf_FT5iJqtlg2aE-vLsfiqT45SQUkO2z__RwjhCg7KbOg_7FI_AYd5kCjpAkH70110DcujPw3QGyJg8SosVWFqBuOYtxhQgngSym3g-UQSt3mVUxDTulRuCSf5U4dHRYlzjJz1YcJiKs55xBbYKJl8Wjdf25MLIhI.jpg?r=788",
+      "season": "11 Bölüm",
+      "types": [
+        "Sürükleyici",
+        "Heyecanlı"
+      ],
+      "cast": [
+        "Noah Centineo",
+        "Laura Haddock",
+        "Aarti Mann"
+      ]
+    }
+  ]
+}

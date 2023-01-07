@@ -1,19 +1,31 @@
-import React from "react";
+import React, { useState } from "react";
 import { Button, Card } from "react-bootstrap";
 import { GrPlayFill, GrAdd, GrLike, GrFormDown } from "react-icons/gr";
 import CircleButton from "../Buttons/CircleButton";
 import { colors } from "../../utils/colors";
 
-function MovieCard() {
+function MovieCard({ data }) {
+  const [active, setActive] = useState(false);
+
+  const handleEnter = () => {
+    // setTimeout(() => {
+    setActive(true);
+    // }, 1000);
+  };
+  const handleLeave = () => {
+    setActive(false);
+  };
+
   return (
-    <Card className="movie-card">
-      <Card.Img
-        variant="top"
-        src="https://occ-0-3175-784.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABW1IBiR27_qKafiKN5fd6SzQYPWhJWNPdE-646jpL7hDo4dRHvKuPlxyzp8R-kh7yG22HBtir8T-Jv3-RyC0TGeOhDyz5X8pWJSL29aCStXe5FJ1EwDB78lY-_oASdEHQmt_eZ7b2n6CPTkux-YkOrzcAyyDfabeWms4L3qu7DdpOS5asbgzu3oHI5bay_M.jpg?r=082"
-      />
-      <Card.Body className="movie-card-body bg-dark text-white">
+    <Card
+      onMouseEnter={handleEnter}
+      onMouseLeave={handleLeave}
+      className={`movie-card border-0 ${active === true ? "active" : ""}`}
+    >
+      <Card.Img className="movie-card-img" variant="top" src={data.image} />
+      <Card.Body className="movie-card-body bg-dark text-white  ">
         <div className="d-flex justify-content-between">
-          <div className="d-flex gap-2 mb-2">
+          <div className="d-flex gap-2">
             <CircleButton borderColor={"white"}>
               <GrPlayFill size={22} />
             </CircleButton>
@@ -37,25 +49,28 @@ function MovieCard() {
             <GrFormDown size={22} className="icon-white" />
           </CircleButton>
         </div>
-        <div className="d-flex justify-content-between mb-2 mt-2">
+        <div className="fs-12 d-flex justify-content-between mb-2 mt-2">
           <div>
-            <small>%77 Eşleşme</small>
+            <small className="body-title">13+</small>
           </div>
           <div>
-            <small>13+</small>
+            <small className="body-title"> {data.season} </small>
           </div>
           <div>
-            <small>1 sa 25dk</small>
-          </div>
-          <div>
-            <small>HD</small>
+            <small className="body-title">HD</small>
           </div>
         </div>
         <div>
-          <ul className="d-flex justify-content-between p-0">
-            <li style={{ listStyle: "none" }}>Dram</li>
-            <li>Gerilim</li>
-            <li>Tehlike</li>
+          <ul className="d-flex justify-content-between p-0 mb-0">
+            {data.types.map((element, index) => (
+              <li
+                className="body-title"
+                style={{ listStyle: index === 0 ? "none" : "circle" }}
+                key={index}
+              >
+                {element}
+              </li>
+            ))}
           </ul>
         </div>
       </Card.Body>
